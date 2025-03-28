@@ -5,3 +5,6 @@ local name = "Phil"
 local surname = "Smither"
 
 print(name + surname)
+
+local str = "22"
+print(type(tonumber str))
